@@ -2,12 +2,10 @@
 
 # Eclipse Systems
 
-### as one
+**as one**
 
-**Building systems that work as one.**
+Eclipse Systems develops technologies for building integrated systems where modular parts preserve clear boundaries and responsibilities while contributing to coherent system behavior.
 
-Eclipse Systems develops technologies for building integrated systems where modular parts can remain independent while contributing to coherent system behavior.
-
-**Modularity · Information · Coordination · Composition**
+Modularity · Information · Coordination · Composition
 
 </div>
