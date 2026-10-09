@@ -1,11 +1,13 @@
 <div align="center">
 
-# Eclipse Systems
+# Eclipse
 
 **as one**
 
-Eclipse Systems develops technologies for building integrated systems where modular parts preserve clear boundaries and responsibilities while contributing to coherent system behavior.
+Eclipse develops languages, runtimes, and tools for describing, executing, and inspecting computational systems with explicit domain boundaries, interactions, and integrity contracts.
 
-Modularity · Information · Coordination · Composition
+Our work focuses on preserving system meaning across representation and execution, with clear relationships between state, behavior, and causality.
+
+Projects are experimental and under active development.
 
 </div>
